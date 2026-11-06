@@ -1,0 +1,4 @@
+Politique de Confidentialité du Bot IA
+
+1. Collecte des données : Le bot accède temporairement au contenu des messages textuels dans lesquels il est mentionné, ainsi qu'à l'identifiant unique (ID) de l'utilisateur afin de pouvoir lui répondre.
+2. Utilisation et Stockage : Aucune donnée personnelle, identifiant ou message n'est enregistré dans une base de données externe ou revendu. L'historique des conversations est stocké uniquement dans la mémoire vive (RAM) du serveur d'hébergement pour permettre au bot de se souvenir du contexte de la discussion. Cet historique s'efface automatiquement à chaque redémarrage du bot.
